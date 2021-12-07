@@ -1,1 +1,1 @@
-# Schr-dinger
+# Schrodinger
